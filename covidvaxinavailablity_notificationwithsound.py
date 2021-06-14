@@ -51,14 +51,14 @@ def slots(districtid):
     else:
         print('not available')
 def main():
-    arr=[581,603]
+    district=[581,603]
     #district-ids
     a=['Hyd','RR']
     #district-names
-    for i in range(len(arr)):
-        print("\n"+'.'*10+str(arr[i])+'----'+a[i]+'.'*10+"\n")
+    for i in range(len(district)):
+        print("\n"+'.'*10+str(district[i])+'----'+a[i]+'.'*10+"\n")
         try:
-            slots(arr[i])
+            slots(district[i])
         except: 
             print("An error occured--chek connection") 
         #requesting for slots availablity by district id
