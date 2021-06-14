@@ -35,4 +35,7 @@ district id's we use : https://cdn-api.co-vin.in/api/v2/admin/location/districts
 
 for example:
   ``` https://cdn-api.co-vin.in/api/v2/admin/location/districts/32 ```
-now after getiing distictict ids we can add them to an array in main function called district ids to get detais of covid vaxin availablity
+  
+now after getiing distictict ids we can add them to an array in main function called district  to get detais of covid vaxin availablity.
+
+After adding details district ids we can run the program this will update you about vaxin availablity and it will cheak for every 5 seconds for avilablity in given districts and notify by making an alert sound.
