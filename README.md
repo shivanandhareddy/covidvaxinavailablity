@@ -35,4 +35,4 @@ district id's we use : https://cdn-api.co-vin.in/api/v2/admin/location/districts
 
 for example:
   ``` https://cdn-api.co-vin.in/api/v2/admin/location/districts/32 ```
-
+now after getiing distictict ids we can add them to an array in main function called district ids to get detais of covid vaxin availablity
