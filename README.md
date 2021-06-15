@@ -46,3 +46,5 @@ After adding details district ids we can run the program this will update you ab
 we can get notification of vaccine by using telegram bot.
 
 create a bot using bot father in telegram and add the bot to a group and get the chat id of group and now put the bot api key and chat id in specified position in code now you can get all the updates. to get updates every time host this in cloud
+
+ ```https://api.telegram.org/bot<api key>/sendMessage?chat_id=-<chat id>&text='Hello'```
