@@ -40,7 +40,7 @@ now after getting district ids we can add them to an array in main function call
 
 After adding details district ids we can run the program this will update you about vaccine availability and it will cheak for every 5 seconds for availability in given districts and notify by making an alert sound.
 
-#telegram bot
+# telegram bot
 
 
 we can get notification of vaccine by using telegram bot.
