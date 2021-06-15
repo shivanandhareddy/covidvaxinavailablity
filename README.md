@@ -39,3 +39,10 @@ for example:
 now after getting district ids we can add them to an array in main function called district  to get details of covid vaccine availability.
 
 After adding details district ids we can run the program this will update you about vaccine availability and it will cheak for every 5 seconds for availability in given districts and notify by making an alert sound.
+
+#telegram bot
+
+
+we can get notification of vaccine by using telegram bot.
+
+create a bot using bot father in telegram and add the bot to a group and get the chat id of group and now put the bot api key and chat id in specified position in code now you can get all the updates. to get updates every time host this in cloud
